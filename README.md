@@ -12,7 +12,7 @@ Unless the paragraph is in a list, don't indent paragraph with spaces or tabs.
 
 ## LINE BREAKS   
 
-To create a line break (<br>), end a line with two or more spaces, and then type return.   
+To create a line break ("<br>"), end a line with two or more spaces, and then type return.   
 
 ## EMPHASIS  
 
