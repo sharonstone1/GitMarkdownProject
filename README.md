@@ -49,7 +49,14 @@ Blockquotes can contain multiple paragraphs. Add a > on the blank line between t
 Examples:   
 > Lorem[space][space]
 ipsum[space][space]
-dolor sit amet
+dolor sit amet    
+
+
+> this is just a blockquote test  
+>   
+> this is a multiple blockquote test   
+
+
 
 
 
