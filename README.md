@@ -38,12 +38,18 @@ The *cat's meow*.
 
 ## BLOCKQUOTES   
 
-To create a blockquote, add a > in front of a paragraph.  
+To create a blockquote, add a > in front of a paragraph but if it does not work add blockquote as we do in HTML.  
+
 Example: <blockquote> I love learning Python, JavaScript, React, Java, MySQL, and so on. </blockquote> 
 
 **Blockquotes with Multiple Paragraphs**   
 
-Blockquotes can contain multiple paragraphs. Add a > on the blank line between the paragraphs.
+Blockquotes can contain multiple paragraphs. Add a > on the blank line between the paragraphs.   
+
+Examples:   
+> Lorem[space][space]
+ipsum[space][space]
+dolor sit amet
 
 
 
