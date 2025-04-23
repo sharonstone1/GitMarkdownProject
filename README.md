@@ -39,7 +39,7 @@ The *cat's meow*.
 ## BLOCKQUOTES   
 
 To create a blockquote, add a > in front of a paragraph.  
-Example: <p> I love learning Python, JavaScript, React, Java, MySQL, and so on. </p> 
+Example: <blockquote> I love learning Python, JavaScript, React, Java, MySQL, and so on. </blockquote> 
 
 **Blockquotes with Multiple Paragraphs**   
 
