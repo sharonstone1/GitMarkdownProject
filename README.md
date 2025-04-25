@@ -157,7 +157,79 @@ function test(){
 
 You can add images to Markdown using the [alt text](images_url)     
 
-![Alt text](./image1.jpg "image test")    
+![Alt text](./image1.jpg "image test")         
+
+
+### Escaping Tick Marks       
+
+if the word or phrase you want to denote as code includes one or more tick marks, you can escape it by enclosing the word or phrase in double tick marks (").        
+
+``Use `code` in your Markdown file. ``     
+
+## Horizontal Rules      
+
+To create a horizontal rule, use three or more asterisks (***), daskes(---), or underscores(___) on a line by themselves.       
+
+***  
+
+___    
+
+---      
+
+## Links      
+
+To create a link, enclose the link text in brackets(eg. [Duck Duck Go]) and then follow it immediately with the URL in parentheses(eg, (https://duckduckgo.com)).    
+
+A tutorial [Please find Markdown Tutorial Here](https://www.markdownguide.org/)    
+
+**ADDING TITLES**    
+
+You can optionally add a title for a link. This will appear as a tooltip when the user hovers over the link. To add a title, enclose it in parentheses after the URL.   
+
+[Markdown Tutorial here](https://www.markdownguide.org/ "Learn how to write a documentation with Markdown")      
+
+
+## URLs and Email Addresses     
+
+To quickly turn a URL or email address into a link, enclose it in angle brackets.     
+
+<https://www.markdownguide.org/>
+<marthe.ekoule@gmail.com>     
+
+
+## Formatting Links      
+
+To emphasize links, add asterisks before and after the brackets and parentheses.     
+
+I love learning programming language **[Python](https://docs.python.org/3/tutorial/index.html)**   
+This is the *[EFF](https://eff.org)* .    
+
+## Escaping Characters      
+
+To display a literal character that would otherwise be used to format text in a Markdown document, add a backslash (\) in front of the character.      
+
+\* Without the backslash, this would be a bullet in an unordered list.   
+
+
+## Tables   
+
+To add a table, use three or more hyphens (---) to create each column's header, and use pipes (|) to separate each column. You can optionally add pipes on either end of the table.     
+
+| Syntax    | Description   |   
+|-----------|---------------|  
+| Header    | Title         |     
+|Paragraph  | Text          |     
+
+
+
+
+
+
+
+
+
+
+
 
 
 
