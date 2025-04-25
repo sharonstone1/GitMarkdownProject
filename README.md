@@ -54,7 +54,120 @@ dolor sit amet
 
 > this is just a blockquote test  
 >   
-> this is a multiple blockquote test   
+> this is a multiple blockquote test     
+
+
+**Nested Blockquotes**   
+
+Blockquotes can be nested. Add a >> in front of the paragraph you want to nest.   
+
+Examples:   
+> this is a nested test blockquote   
+>   
+>> and this is the nested paragraph   
+
+**Blockquotes with other elements**   
+
+Blockquotes can contain other Markdown formatted elements. Not all elements can be used.   
+Examples:   
+> ##### The quaterly results look great !    
+>   
+> - Revenue was off the chart.   
+> - Profits were higher than ever.   
+>   
+>  *Everything* is going **well**   
+
+
+## LISTS   
+
+You can organize items into ordered and unordered lists.   
+
+**Ordered Lists**   
+
+To create an ordered list , add line items with numbers followed by periods. The numbers don't have to be in numerical order, but the list should start with the number one.   
+
+1. this is a list item   
+2. this is the second list item   
+3. this is the third list item  
+
+**Nesting List Items**   
+
+To nest line items in an ordered list , indent the items fours spaces or one tab.     
+
+1. this is a nested list test   
+2. here, we will nest this item   
+    1. the first nested item test   
+    2. the second nested item test   
+
+**Unordered Lists**   
+
+To create an unordered list, add dashes (-), asterisks(*), or plus signs (+) in front of line items.    
+
+- this is the first unordered list  
+- this is a the second unordered list   
+
+* this is the other way to do an unordered list   
+* this is the second unordered list test     
++ this is the last way to do an unordered list     
+
+**Nesting List Items**    
+
+To nest line items in an unordered list, indent the items four spaces or one tab.   
+
+- first item   
+- second item   
+- third item  
+   - indented item   
+   - indented item   
+- fourth item   
+
+**Adding Elements in Lists**     
+
+To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab.   
+
+###### **Paragraphs**   
+
+*    This is a list with a paragraph.   
+*    here is my second list item.    
+
+     I need to add another paragraph below the second list item.     
+
+*    And here is the third list item.      
+
+###### **Blockquotes**       
+
+*    This is the first list item with the blockquote    
+*    Here's the second list item.    
+
+     > A blockquote would look great here.       
+
+*    And here's the third list item.      
+
+**Code Blocks**    
+
+Code blocks are normally indented four spaces or one tab. when they're in a list, indent them eight spaces or two tabs. You can create fenced code blocks by placing triple backticks before and after the code block. We recommend placing a blank line before and after code blocks to make the raw formatting easier to read.    
+
+```        
+function test(){
+    console.log("hello world")
+}   
+```          
+
+###  Images     
+
+You can add images to Markdown using the [alt text](images_url)     
+
+![Alt text](./image1.jpg "image test")    
+
+
+
+
+
+
+
+
+
+
 
 
 
