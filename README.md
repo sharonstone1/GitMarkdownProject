@@ -195,7 +195,7 @@ To quickly turn a URL or email address into a link, enclose it in angle brackets
 
 <https://www.markdownguide.org/>     
    
-   
+
 <marthe.ekoule@gmail.com>     
 
 
@@ -220,7 +220,13 @@ To add a table, use three or more hyphens (---) to create each column's header, 
 | Syntax    | Description   |   
 |-----------|---------------|  
 | Header    | Title         |     
-|Paragraph  | Text          |     
+|Paragraph  | Text          |         
+
+
+
+===========    
+
+
 
 
 
