@@ -229,8 +229,8 @@ To add a table, use three or more hyphens (---) to create each column's header, 
 Task list allow you to create a list of item with checkboxes. In Markdown application that support task list, checkboxes will be displayed next to the content. To create a task list, add dashes (-) and brackets with a space ([]) in front of task list items. To select a checkbox, add an x in between the brackets ([x]).      
 
 - [x] write the press release  
-- [] update the website    
-- [] contact the media       
+- [ ] update the website    
+- [ ] contact the media       
 
 
 
