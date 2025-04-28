@@ -230,7 +230,13 @@ Task list allow you to create a list of item with checkboxes. In Markdown applic
 
 - [x] write the press release  
 - [ ] update the website    
-- [ ] contact the media       
+- [ ] contact the media         
+
+
+[![Learn AI with Python](./Artificial%20Intelliegnce.mp4)]
+
+
+
 
 
 End!!!!!!!!!!!!!
