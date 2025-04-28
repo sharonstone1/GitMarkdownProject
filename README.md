@@ -233,7 +233,7 @@ Task list allow you to create a list of item with checkboxes. In Markdown applic
 - [ ] contact the media         
 
 
-[![Learn AI with Python](https://www.youtube.com/watch?v=5NgNicANyqM&t=1765s)]    
+[Learn AI with Python](https://www.youtube.com/watch?v=5NgNicANyqM&t=1765s "Learn Artificial Intelligence from Harvard")   
 
 Notice: Markdown does not officially support video embeddings but you can embed raw HTML in it. 
 
